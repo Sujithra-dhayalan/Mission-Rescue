@@ -820,6 +820,10 @@ Historical Disaster Data, Meteorological and Climate Data, Seismic Data, Demogra
 ![p13](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/d9147d60-d9c2-49df-8d30-aa9a0de7f3ec)
 
 
+## TRY IT OUT:
+
+http://148.100.109.249:38888/lab/tree/MissionRescue
+
 
 
 
