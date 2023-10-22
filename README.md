@@ -805,6 +805,21 @@ Historical Disaster Data, Meteorological and Climate Data, Seismic Data, Demogra
 </html>
 ```
 ## RESULTS:
+![p1](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/64ac9aa1-b246-459c-a171-3808239cf81f)
+![p2](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/31cc1aef-a062-4ce4-9750-4ba4ac7ccc26)
+![p3](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/39a07848-e649-43bc-8a7a-53ed1120252a)
+![p4](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/2afdb980-c751-4ea3-af46-362d5ed188a6)
+![p5](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/4f75e364-df2a-48ca-8f4f-67069c0e7aee)
+![p6](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/65386262-f0b5-4753-b38d-a87f5d356280)
+![p7](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/68b009aa-8afd-46e2-bc6d-e4f331ede486)
+![p8](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/f5833d50-f564-41ec-b85f-b71d5ac3ff7a)
+![p9](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/c1d9555a-01f7-485b-a503-e758216cfee2)
+![p10](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/ed26eb97-95ce-4302-97bd-fbf13f9b1052)
+![p11](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/b88f2bc9-76ad-401c-a305-99f55c758402)
+![p12](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/4fd63c2d-f79e-4832-a4ae-df0b2f38e1e2)
+![p13](https://github.com/Sujithra-dhayalan/Mission-Rescue/assets/115523950/d9147d60-d9c2-49df-8d30-aa9a0de7f3ec)
+
+
 
 
 
